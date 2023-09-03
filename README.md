@@ -28,7 +28,7 @@ Technologies Used:
 Herkese merhaba, bu site Spotify api entegrasyonu kullanılarak oluşturuldu. 
 
 Neler yapabiliyoruz ?
-- Arama kısmına girdiğimiz bir sanatçı isminin sonuçlarını listeebiliriz.
+- Arama kısmına girdiğimiz bir sanatçı isminin sonuçlarını listeyebiliriz.
 - Karşımıza çıkan listeden şarkılar seçip 'New Playlist' listemize aktarabiliyoruz.
 - Aktardığımız şarkılar 'New Playlist' altında toplanacaktır.
 - Saved to Spotify butonuna tıkladığımızda, oluşturduğumuz liste gerçek hesabımız Spotify'a aktarılacaktır.
