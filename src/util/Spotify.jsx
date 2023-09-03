@@ -1,5 +1,5 @@
 const clientId = '64d5fb689f4b4e38aa42ffc6e47d2495'; 
-const redirectUri = 'http://localhost:5173/'; 
+const redirectUri = 'https://cibomusic.netlify.app/'; 
 let accessToken;
 
 const Spotify = {
